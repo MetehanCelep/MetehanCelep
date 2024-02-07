@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E03AQEtuSFKCrJUSA/profile-displayphoto-shrink_800_800/0/1632097509770?e=1712793600&v=beta&t=vLGvFlfYbxMzE7AGU83Y5P_GRRiXPqu4zq_yd5DgGIc)
+[![MasterHead](http://media.licdn.com/dms/image/C4E03AQEtuSFKCrJUSA/profile-displayphoto-shrink_800_800/0/1632097509770?e=1712793600&v=beta&t=vLGvFlfYbxMzE7AGU83Y5P_GRRiXPqu4zq_yd5DgGIc)
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">I'm a 3th grade computer engineering student.</h3>
 
