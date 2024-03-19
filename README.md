@@ -1,4 +1,4 @@
-![Uploading 1632097509069.jpg…]()
+![download](https://github.com/MetehanCelep/MetehanCelep/assets/108836767/21dc4831-c249-451a-bb5b-4ac8530ea503)
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">I'm a 3rd grade computer engineering student.</h3>
 
