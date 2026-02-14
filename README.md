@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Metehan Celep
 
-**Full Stack Developer** 
+**Software Developer** 
 
 from Istanbul, Turkey, passionate about building scalable, maintainable and user-centric web applications.
 
