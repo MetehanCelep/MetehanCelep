@@ -18,7 +18,7 @@
 
 ---
 
-Backend-focused software engineer building microservices and RESTful APIs with **Java** and **Spring Boot**. Previously shipped payment and wallet services in banking. I like clean architecture, tested code, and shipping features end to end.
+Backend-focused software engineer building microservices and RESTful APIs with **Java** and **Spring Boot**. I like clean architecture, tested code, and shipping features end to end.
 
 <br/>
 
